@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/decline-curve-demo/static/css/main.e6c13ad2.css",
+    "main.js": "/decline-curve-demo/static/js/main.f4b149f4.js",
+    "static/js/453.5c6fd4f2.chunk.js": "/decline-curve-demo/static/js/453.5c6fd4f2.chunk.js",
+    "index.html": "/decline-curve-demo/index.html",
+    "main.e6c13ad2.css.map": "/decline-curve-demo/static/css/main.e6c13ad2.css.map",
+    "main.f4b149f4.js.map": "/decline-curve-demo/static/js/main.f4b149f4.js.map",
+    "453.5c6fd4f2.chunk.js.map": "/decline-curve-demo/static/js/453.5c6fd4f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f4b149f4.js"
+  ]
+}
